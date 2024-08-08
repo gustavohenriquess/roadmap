@@ -11,5 +11,3 @@
 [194 - Diagramas de Arquitetura de Software e Deployment | theWiseDev Modelling](https://www.youtube.com/watch?v=v-taFyrNXJY)
 
 [The C4 model for visualising software architecture](https://c4model.com/)
-
--
